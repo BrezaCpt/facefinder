@@ -1,0 +1,11 @@
+.form {
+    width: 700px;
+
+    /* CSS Background from https://www.magicpattern.design/tools/css-backgrounds */
+    background-color: #FF5EDF;
+    opacity: 0.7;
+    background-image: radial-gradient(circle at center center, #04C8DE, #ae3eff), repeating-radial-gradient(circle at center center, #04C8DE, #04C8DE, 12px, transparent 24px, transparent 12px);
+    background-blend-mode: multiply;
+
+    
+}
